@@ -1,0 +1,12 @@
+A:\Users\Prince\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.csprojAssemblyReference.cache
+A:\Users\Prince\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.csproj.CoreCompileInputs.cache
+A:\Users\Prince\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\bin\Debug\Odev_1.exe
+A:\Users\Prince\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\bin\Debug\Odev_1.pdb
+A:\Users\Prince\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.exe
+A:\Users\Prince\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.pdb
+C:\Users\Ramazan\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\bin\Debug\Odev_1.exe
+C:\Users\Ramazan\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\bin\Debug\Odev_1.pdb
+C:\Users\Ramazan\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.csprojAssemblyReference.cache
+C:\Users\Ramazan\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.exe
+C:\Users\Ramazan\Desktop\odev-1-ramazankabadayi-master\odev-1-ramazankabadayi-master\Odev_1\obj\Debug\Odev_1.pdb
